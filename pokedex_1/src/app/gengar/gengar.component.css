@@ -1,0 +1,43 @@
+.gengar-container {
+    background-color: #6A4C9C; /* Roxo escuro, cor principal do Gengar */
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin: auto;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3); /* Sombra mais forte para um visual sombrio */
+}
+
+.gengar-container h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #FF00FF; /* Magenta, uma cor vibrante que combina com a energia do Gengar */
+}
+
+.gengar-container img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.gengar-container button {
+    background-color: #8E44AD; /* Roxo mais claro para o botão */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.gengar-container button:hover {
+    background-color: #732D91; /* Roxo mais escuro para o hover */
+}
+
+.gengar-container p {
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFD700; /* Amarelo para destacar o texto do ataque, criando um contraste vibrante */
+}

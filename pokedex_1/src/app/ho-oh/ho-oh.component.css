@@ -1,0 +1,46 @@
+.hooh-container {
+    background-color: #FF5733; 
+    color: white;
+    text-align: center;
+    padding: 25px;
+    border-radius: 15px;
+    width: 350px;
+    margin: 40px auto;
+    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.3); 
+    transition: transform 0.3s ease; 
+}
+.hooh-container h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 26px;
+    margin-bottom: 20px;
+    color: #FFD700; 
+}
+
+.hooh-container img {
+    width: 250px;
+    height: auto;
+    margin-bottom: 20px;
+   
+}
+
+.hooh-container button {
+    background-color: #FF4500; 
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+}
+
+.hooh-container button:hover {
+    background-color: #FF6347; 
+}
+
+.hooh-container p {
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFD700; 
+    margin-top: 15px;
+}

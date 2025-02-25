@@ -1,0 +1,43 @@
+.arcanine-container {
+    background-color: #FF6F00; /* Laranja forte, combinando com a pelagem do Arcanine */
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin: auto;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); /* Sombra mais suave para o efeito */
+}
+
+.arcanine-container h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #FFD700; /* Amarelo para o título, refletindo o brilho do fogo */
+}
+
+.arcanine-container img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.arcanine-container button {
+    background-color: #FF4500; /* Laranja avermelhado, vibrante */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.arcanine-container button:hover {
+    background-color: #D83F00; /* Laranja mais escuro para o efeito hover */
+}
+
+.arcanine-container p {
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFD700; /* Amarelo para destacar o texto do ataque, com contraste */
+}

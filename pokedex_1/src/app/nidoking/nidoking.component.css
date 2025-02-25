@@ -1,0 +1,42 @@
+.nidoking-container {
+    background-color: #6A4C9C; /* Cor roxa, a principal do Nidoking */
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin: auto;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.nidoking-container h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.nidoking-container img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.nidoking-container button {
+    background-color: #8A4D9B; /* Um tom mais claro de roxo */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.nidoking-container button:hover {
+    background-color: #7F3E8E; /* Um tom intermediário para o efeito hover */
+}
+
+.nidoking-container p {
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFD700; /* Amarelo para o texto do ataque */
+}

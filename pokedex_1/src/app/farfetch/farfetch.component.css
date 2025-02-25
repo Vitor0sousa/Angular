@@ -1,0 +1,43 @@
+.farfetchd-container {
+    background-color: #C8B58E; /* Cor marrom claro, similar ao tom do Farfetch'd */
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin: auto;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.farfetchd-container h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #3E7A3B; /* Verde para o título, que remete ao alho-poró do Farfetch'd */
+}
+
+.farfetchd-container img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.farfetchd-container button {
+    background-color: #3E7A3B; /* Verde semelhante ao alho-poró de Farfetch'd */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.farfetchd-container button:hover {
+    background-color: #2C5F2E; /* Um tom mais escuro de verde para hover */
+}
+
+.farfetchd-container p {
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFD700; /* Amarelo para destacar o texto do ataque */
+}

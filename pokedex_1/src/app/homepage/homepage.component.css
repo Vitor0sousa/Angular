@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+.homepage {
+    text-align: center;
+    margin-top: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  
+  }
+  
+  .homepage button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: #FFEB3B; /* Cor amarela */
+    color: black;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .homepage button:hover {
+    background-color: #FF9800; /* Cor mais laranja para o hover */
+  }
+  .homepage section{
+    width: 200px;
+    height: auto;
+    background-color: white;
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px black;
+  }
+  .homepage img{
+    width: 200px;
+    height: auto;
+  }
+  header{
+    background-color: rgb(2, 2, 160);
+  }

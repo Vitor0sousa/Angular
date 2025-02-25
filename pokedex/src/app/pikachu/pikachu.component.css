@@ -1,0 +1,23 @@
+.pikachu-container {
+    text-align: center;
+    font-family: 'Pokemon Solid', sans-serif;
+    color: #ffcc00;
+    background-color: #2b2b2b;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  button {
+    font-size: 16px;
+    background-color: #ffcc00;
+    color: #2b2b2b;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  img {
+    width: 200px;  /* Ajusta a largura da imagem */
+    height: auto;  /* Mantém a proporção */
+    max-width: 100%; /* Garante que a imagem não ultrapasse o contêiner */
+  }
+  
